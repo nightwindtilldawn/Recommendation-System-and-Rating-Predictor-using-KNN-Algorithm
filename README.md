@@ -6,10 +6,9 @@ NOTE: download the other csv data file in https://www.kaggle.com/datasets/tmdb/t
 This project implements a Recommendation System and Rating Predictor using the K-Nearest Neighbors (KNN) algorithm, designed to suggest items to users based on their preferences and historical data. It is particularly aimed at applications in e-commerce, movie streaming platforms, and any service where personalized content recommendation can enhance user experience.
 
 ### Features
-- **Personalized Recommendations:** Suggests items based on user's past preferences and ratings.
+- **Personalized Recommendations:** Suggests items based on movie's relatedness with each other.
 - **Rating Prediction:** Predicts how a user might rate an item they haven't interacted with yet.
 - **Dynamic Learning:** Updates recommendations as it learns more about user preferences.
-- **Scalability:** Designed to handle datasets of varying sizes efficiently.
 
 ## Getting Started
 
