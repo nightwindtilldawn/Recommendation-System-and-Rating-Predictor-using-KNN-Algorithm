@@ -8,7 +8,7 @@ This project implements a Recommendation System and Rating Predictor using the K
 ### Features
 - **Personalized Recommendations:** Suggests items based on movie's relatedness with each other.
 - **Rating Prediction:** Predicts how a user might rate an item they haven't interacted with yet.
-- **Dynamic Learning:** Updates recommendations as it learns more about user preferences.
+- **Dynamic Learning:** Updates recommendations as it takes in more input.
 
 ## Getting Started
 
